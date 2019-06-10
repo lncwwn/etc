@@ -4,9 +4,9 @@ Crawling stats data from [http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/${yea
 Dependencies
 =====
 Recommend that using [`virtualenv`](https://virtualenv.pypa.io/en/stable/) to run this project.   
-type the following command to install dependencies.
+type the following command to install dependencies.   
 `pip install -r requirements.txt`
 
 Run
 =====
-python ./crawl.py
+`python ./crawl.py`
